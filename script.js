@@ -1,8 +1,3 @@
-/*function whiteMode() {
-    var element = document.body;
-    element.classList.toggle("white-mode");
-}*/
-
 const ldtoggle = document.getElementById("ldtoggle");
 
 ldtoggle.addEventListener("click", () => {
